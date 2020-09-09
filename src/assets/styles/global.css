@@ -1,0 +1,40 @@
+:root {
+  --color-background: rgba(255, 255, 255, 0.9);
+  
+  --color-primary:  #DE8F75;
+  --color-gray-details: #686868;
+  --color-gray-dark: #7F7F7F;
+  --color-gray-light: #E3E3E3;
+ 
+  --color-text: #202020;
+  --color-text-secundary: #AEB6C1;
+  --color-footer-line: #AEB6C1;
+
+  --color-select-title: #5F75AA;
+  --color-full-white: #FFFFFF;
+  --color-header-border: #CCCCCC;
+
+  --color-arrow-border: #2A5A75;
+  --color-main-details: #D2E1DF;
+  --color-button: #32917B;
+
+  font-size: 62.5%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body #root{
+  height: 100vh;
+}
+
+body {
+  background: var(--color-background);
+}
+
+body,
+input{
+  font-family: 'Montserrat', sans-serif;
+}
