@@ -2,6 +2,10 @@
 
 https://original-io-luther.herokuapp.com/
 
+## PREVIOUS VERSION
+
+https://github.com/Nephxlin/original-io-teste-TypeScript
+
 ## Available Scripts
 
 In the project directory, you can run:
